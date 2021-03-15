@@ -1,0 +1,55 @@
+html{
+    width: 100%;
+}
+
+* {
+    font-family: 'Ballet', cursive;
+    font-family: 'Great Vibes', cursive;
+}
+
+.container{
+    width: 100%;
+}
+
+.row{
+    display: flex;
+    margin-top: 100px;
+}
+
+.row .text .title, .subTitle, .price{
+    text-align: center;
+    margin-top: -10px;
+}
+
+.row .text .title:hover, .subTitle:hover{
+    color: pink;
+}
+
+.cont1{
+    width: 33%;
+    margin: 10px;
+}
+
+.cont1 figure{
+    width: 100%;
+}
+
+.cont2{
+    width: 33%;
+    margin: 10px;
+}
+
+.cont2 figure{
+    width: 100%;
+}
+
+.cont3{
+    width: 33%;
+    margin: 10px;
+}
+
+.cont3 figure {
+    width: 100%;
+}
+
+
